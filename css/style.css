@@ -49,8 +49,8 @@ body{
 }
 
 .img1{
-    background: url('/img/new\ style.jpg');
-    height: 50px;
-    width: 50px;
+    background: url('../img/new_style.jpg');
+    height: 2300px;
+    width: 2300px;
 }
 
